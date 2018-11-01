@@ -11,10 +11,10 @@
     "page_action": {
       "default_popup": "popup.html",
       "default_icon": {
-        "16": "images/CheckBox16.png",
-        "32": "images/CheckBox32.png",
-        "48": "images/CheckBox48.png",
-        "128": "images/CheckBox128.png"
+        "16": "images/MCalendarIcon16.png",
+        "32": "images/MCalendarIcon32.png",
+        "48": "images/MCalendarIcon48.png",
+        "128": "images/MCalendarIcon128.png"
       }
       //page action for inserting HTML
   },
@@ -26,10 +26,10 @@
 
     
     "icons": {
-      "16": "images/CheckBox16.png",
-      "32": "images/CheckBox32.png",
-      "48": "images/CheckBox48.png",
-      "128": "images/CheckBox128.png"
+      "16": "images/MCalendarIcon16.png",
+      "32": "images/MCalendarIcon32.png",
+      "48": "images/MCalendarIcon48.png",
+      "128": "images/MCalendarIcon128.png"
     },
     "manifest_version": 2
   }
